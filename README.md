@@ -14,15 +14,17 @@
  </a>
 </p>
 
-## Using a machine, I am learning how to make a machine intelligent!
+## GIS Developer:
 
->I’m a software engineer specializing in building Web Applications. I love building WebApplication using ASP.NET Core, Vuejs. As for the backend, I work with ASP.NET Core WebAPIs following SOLID Principles & Clean Architecture Principles. 
+>I’m a software engineer with a focus on GIS applications, proficient in using Python for geospatial development. I enjoy creating mapping solutions with libraries like GeoPandas, Shapely, and Folium. My expertise lies in building backend services with Flask and Django REST framework, following SOLID Principles & Clean Architecture Principles.
 
 ### 📘 I’m currently reading...
->Clean Code by Robert C. Martin aka Uncle Bob
 
->Head First Design Patterns by Eric Freeman, Elisabeth Freeman, Bert Bates, Kathy Sierra
-### 🥅 2023 Goals: Contribute more to Open Source projects
+>"Clean Code" by Robert C. Martin aka Uncle Bob
+>"Python Geospatial Analysis Cookbook" by Michael Diener
+>"Mastering Geospatial Analysis with Python" by Paul Crickard IV
+
+### 🥅 2024 Goals: Contribute more to Open Source projects
 
 #### 💻 Open Source Contributions
 

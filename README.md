@@ -21,7 +21,9 @@
 ### 📘 I’m currently reading...
 
 >"Clean Code" by Robert C. Martin aka Uncle Bob
+
 >"Python Geospatial Analysis Cookbook" by Michael Diener
+
 >"Mastering Geospatial Analysis with Python" by Paul Crickard IV
 
 ### 🥅 2024 Goals: Contribute more to Open Source projects

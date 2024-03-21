@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Safa Kamran 👋😲</h1>
 <p align="center"> 
  <a href="https://twitter.com/safakamran15" alt="twitter">
-   <img src="https://img.shields.io/badge/-@bilalmehrban-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+   <img src="https://img.shields.io/badge/-@safakamran15-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
  <a href="https://github.com/safakamran002" alt="mukesh's github">
-   <img src="https://img.shields.io/badge/-@bilalmehrban-%23181717?style=flat-square&logo=github" />
+   <img src="https://img.shields.io/badge/-@safakamran002-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/safakamran002" alt="mukesh's linkedin">
-   <img src="https://img.shields.io/badge/-bilalmehrban-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bilalmehrban" />
+   <img src="https://img.shields.io/badge/-bilalmehrban-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safakamran002" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=bilalmehrban&color=ff69b4&style=flat-square" />

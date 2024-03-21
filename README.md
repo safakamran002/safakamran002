@@ -32,6 +32,6 @@ I always make sure that I find enough time for open source contribution that hel
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@safakamran002](https://www.linkedin.com/in/safakamran002/)
 
 ### Interesting Stat's
-![Bilal's stats](https://github-readme-stats.vercel.app/api?username=safakamran002&show_icons=true&count_private=true)
+![Safa's stats](https://github-readme-stats.vercel.app/api?username=safakamran002&show_icons=true&count_private=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bilalmehrban&theme=onedark)](https://github.com/bilalmehrban)
+[![trophy](https://github-profile-trophy.vercel.app/?username=safakamran002&theme=onedark)](https://github.com/safakamran002)

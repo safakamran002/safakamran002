@@ -7,7 +7,7 @@
    <img src="https://img.shields.io/badge/-@safakamran002-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/safakamran002" alt="mukesh's linkedin">
-   <img src="https://img.shields.io/badge/-bilalmehrban-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safakamran002" />
+   <img src="https://img.shields.io/badge/-safakamran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safakamran002" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=bilalmehrban&color=ff69b4&style=flat-square" />
